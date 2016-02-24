@@ -12,3 +12,15 @@ GIT instructions:
 	
 /4/ Clone repo:
 	$ git clone https://github.com/TaylorADean/simply-hitched.git
+
+/5/ Set default push behaviour:
+	$ git config --global push.default simple
+
+/6/ First time push (set remote as upstream branch)
+	$ git push --set-upstream origin master
+
+/7/ Push
+	$ git push
+
+/8/ Fetch
+	$ git fetch
