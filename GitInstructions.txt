@@ -11,4 +11,4 @@ GIT instructions:
 	$ git config --global merge.tool "Path to winmerge"
 	
 /4/ Clone repo:
-	$ git clone git://github.com/tdean/simply-hitched.git
+	$ git clone https://github.com/TaylorADean/simply-hitched.git
