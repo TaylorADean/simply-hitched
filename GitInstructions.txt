@@ -1,0 +1,14 @@
+GIT instructions:
+
+/1/ User set-up:
+	$ git config --global user.name "Taylor Dean"
+	$ git config --global user.email taylor.647@gmail.com
+	
+/2/ Default editor:
+	$ git config --global core.editor "Path to notepad++"
+	
+/3/ Default compare tool:
+	$ git config --global merge.tool "Path to winmerge"
+	
+/4/ Clone repo:
+	$ git clone git://github.com/tdean/simply-hitched.git
