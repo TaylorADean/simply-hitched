@@ -1,0 +1,11 @@
+git status
+	- Get the current status
+
+git add
+	- Stage a file or add one that hasn't been tracked.
+
+git diff
+	- Show the difference between unstaged files and what's in your repo
+	
+git diff --staged
+	- Show the difference between unstaged and staged files
